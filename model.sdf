@@ -7,14 +7,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://ct7/meshes/wall_collision.dae</uri>
+            <uri>model://CT7/meshes/wall_collision.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://ct7/meshes/ct.dae</uri>
+            <uri>model://CT7/meshes/ct.dae</uri>
           </mesh>
         </geometry>
         <cast_shadows>false</cast_shadows>
